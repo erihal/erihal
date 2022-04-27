@@ -13,7 +13,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=000)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000)](#)
-[![Pop!_OS](https://img.shields.io/badge/Pop!_OS-000?style=for-the-badge&logo=popos&logoColor=48B9C7&labelColor=000)](#)
 [![AzureDevOps](https://img.shields.io/badge/AzureDevOps-000?style=for-the-badge&logo=azuredevops&logoColor=0078D7&labelColor=000)](#)
 [![AzureFunctions](https://img.shields.io/badge/AzureFunctions-000?style=for-the-badge&logo=azurefunctions&logoColor=0062AD&labelColor=000)](#)
 [![MicrosoftAzure](https://img.shields.io/badge/MicrosoftAzure-000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=000)](#)
