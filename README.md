@@ -16,7 +16,6 @@
 [![AzureDevOps](https://img.shields.io/badge/AzureDevOps-000?style=for-the-badge&logo=azuredevops&logoColor=0078D7&labelColor=000)](#)
 [![AzureFunctions](https://img.shields.io/badge/AzureFunctions-000?style=for-the-badge&logo=azurefunctions&logoColor=0062AD&labelColor=000)](#)
 [![MicrosoftAzure](https://img.shields.io/badge/MicrosoftAzure-000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=000)](#)
-[![MicrosoftAzure](https://img.shields.io/badge/MicrosoftAzure-000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=000)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-000?style=for-the-badge&logo=firefox&logoColor=FF7139&labelColor=000)](#)
 [![Bitwarden](https://img.shields.io/badge/Bitwarden-000?style=for-the-badge&logo=bitwarden&logoColor=175DDC&labelColor=000)](#)
 [![AzurePipelines](https://img.shields.io/badge/AzurePipelines-000?style=for-the-badge&logo=azurepipelines&logoColor=2560E0&labelColor=000)](#)
@@ -26,18 +25,3 @@
 [![AmazonAWS](https://img.shields.io/badge/AmazonAWS-000?style=for-the-badge&logo=amazonaws&logoColor=232F3E&labelColor=000)](#)
 [![AWSLambda](https://img.shields.io/badge/AWSLambda-000?style=for-the-badge&logo=awslambda&logoColor=FF9900&labelColor=000)](#)
 [![DarkReader](https://img.shields.io/badge/DarkReader-000?style=for-the-badge&logo=darkreader&logoColor=141E24&labelColor=000)](#)
-
-<!--
-**erihal/erihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
